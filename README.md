@@ -1,6 +1,5 @@
 # Introduction
 
-
-hello world
+This book is an example online book. 
 
 
